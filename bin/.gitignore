@@ -2,3 +2,5 @@
 /Board.class
 /Solver.class
 /Solver$BoardNode.class
+/P.class
+/PuzzleChecker.class

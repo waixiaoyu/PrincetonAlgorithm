@@ -1,3 +1,4 @@
+package edu.princeton.puzzle8;
 import edu.princeton.cs.algs4.Queue;
 
 public class Board {

@@ -1,3 +1,4 @@
+package edu.princeton.puzzle8;
 import java.util.Comparator;
 
 import edu.princeton.cs.algs4.*;
